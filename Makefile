@@ -54,8 +54,8 @@ autores:
 	@tput setaf 2
 	@echo "~~~ AUTORES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"	
 	@tput sgr0
-	@echo " Carla Civantos Martos"
-	@echo " Laura Cerdá Muñoz"
+	@echo " "
+	@echo " "
 	@echo " Pareja 11"
 	@tput setaf 2
 	@echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
